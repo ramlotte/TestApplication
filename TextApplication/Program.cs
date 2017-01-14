@@ -10,6 +10,7 @@ namespace TextApplication
     {
         static void Main(string[] args)
         {
+            string bob;
         }
     }
 }
